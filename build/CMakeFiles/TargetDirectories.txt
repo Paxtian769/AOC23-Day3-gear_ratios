@@ -1,0 +1,7 @@
+/home/brian/projects/AOC23/AOC23-Day3-gear_ratios/build/CMakeFiles/aoc23-day3-gear_ratios.dir
+/home/brian/projects/AOC23/AOC23-Day3-gear_ratios/build/CMakeFiles/edit_cache.dir
+/home/brian/projects/AOC23/AOC23-Day3-gear_ratios/build/CMakeFiles/rebuild_cache.dir
+/home/brian/projects/AOC23/AOC23-Day3-gear_ratios/build/CMakeFiles/list_install_components.dir
+/home/brian/projects/AOC23/AOC23-Day3-gear_ratios/build/CMakeFiles/install.dir
+/home/brian/projects/AOC23/AOC23-Day3-gear_ratios/build/CMakeFiles/install/local.dir
+/home/brian/projects/AOC23/AOC23-Day3-gear_ratios/build/CMakeFiles/install/strip.dir
